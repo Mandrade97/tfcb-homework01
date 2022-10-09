@@ -1,14 +1,14 @@
-**Table of contents
+# Table of contents
     
     Data
     Images
-    Source Code**
+    Source Code
 *******************************************
-[Data](https://github.com/Mandrade97/tfcb-homework01/blob/master/Data/Survey_Data.xlsx)
+# [Data](https://github.com/Mandrade97/tfcb-homework01/blob/master/Data/Survey_Data.xlsx)
 
     #Contains an excel file with all of the relevant data for homework 1
 ****************************************
-[Images](https://github.com/Mandrade97/tfcb-homework01/tree/master/Images) 
+# [Images](https://github.com/Mandrade97/tfcb-homework01/tree/master/Images) 
 
     #Contains images for homework 1
 [Acanthomyrmex Ferox](https://github.com/Mandrade97/tfcb-homework01/blob/master/Images/Acanthomyrmex_ferox.jpg) 
@@ -20,7 +20,7 @@
 [Rhytidoponera Metallica](https://github.com/Mandrade97/tfcb-homework01/blob/master/Images/Rhytidoponera_metallica.jpg)] 
 
 ***************************************
-[Source Code](https://github.com/Mandrade97/tfcb-homework01/tree/master/Source%20code) 
+# [Source Code](https://github.com/Mandrade97/tfcb-homework01/tree/master/Source%20code) 
 
     #Contains all of the code necessary for HW1
 [get_species_list](https://github.com/Mandrade97/tfcb-homework01/blob/master/Source%20code/get_Species_list.py)
