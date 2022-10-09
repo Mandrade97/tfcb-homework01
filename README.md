@@ -1,8 +1,9 @@
 # Table of contents
     
-    Data
-    Images
-    Source Code
+  Data |  Images | Source Code  |
+|---|---|---|
+|  Excel sheet | Bug Images  | HW1 codes  |
+
 *******************************************
 # [Data](https://github.com/Mandrade97/tfcb-homework01/blob/master/Data/Survey_Data.xlsx)
 
@@ -11,13 +12,13 @@
 # [Images](https://github.com/Mandrade97/tfcb-homework01/tree/master/Images) 
 
     #Contains images for homework 1
-[Acanthomyrmex Ferox](https://github.com/Mandrade97/tfcb-homework01/blob/master/Images/Acanthomyrmex_ferox.jpg) 
+1. [Acanthomyrmex Ferox](https://github.com/Mandrade97/tfcb-homework01/blob/master/Images/Acanthomyrmex_ferox.jpg) 
 
-[Camponotus Darwinii](https://github.com/Mandrade97/tfcb-homework01/blob/master/Images/Camponotus_darwinii%20.jpg) 
+2. [Camponotus Darwinii](https://github.com/Mandrade97/tfcb-homework01/blob/master/Images/Camponotus_darwinii%20.jpg) 
 
-[Cataglyphis fortis](https://github.com/Mandrade97/tfcb-homework01/blob/master/Images/Cataglyphis_fortis.jpg) 
+3. [Cataglyphis fortis](https://github.com/Mandrade97/tfcb-homework01/blob/master/Images/Cataglyphis_fortis.jpg) 
 
-[Rhytidoponera Metallica](https://github.com/Mandrade97/tfcb-homework01/blob/master/Images/Rhytidoponera_metallica.jpg)] 
+4. [Rhytidoponera Metallica](https://github.com/Mandrade97/tfcb-homework01/blob/master/Images/Rhytidoponera_metallica.jpg)] 
 
 ***************************************
 # [Source Code](https://github.com/Mandrade97/tfcb-homework01/tree/master/Source%20code) 
